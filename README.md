@@ -1,11 +1,11 @@
 # Healthcare advisor using GPT4
 
-- You should have an API key provided from **OpenAI** that **allows** you to execute prompts with "_gpt-4-vision-preview_".
-- You can choose the language for the output that will be generated in; English, Turkish and Italian
-- You should upload your medical image that you'd like to receive feedback about, it might be a disease, anomalies or health issues.
-- Finally, press the button written Analyze and wait for the response.
+- Obtain an API key from OpenAI to enable the execution of prompts with "gpt-4-vision-preview".
+- Select your preferred language for the generated output: English, Turkish, or Italian.
+- Upload the medical image you wish to receive feedback on, whether it's related to a disease, anomalies, or health issues.
+- Lastly, click the Analyze button and patiently await the response.
 
-Here are example of these three languages; English, Turkish and Italian
+Examples in English, Turkish, and Italian are provided below.
 
 #
 
