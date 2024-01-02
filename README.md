@@ -7,15 +7,23 @@
 
 Here are example of these three languages; English, Turkish and Italian
 
+#
+
 ## English
 
 ![ENG-1](https://github.com/enesbasbug/healthcare_advisor_using_images_and_gpt4/blob/master/images/e1.png)
 ![ENG-2](https://github.com/enesbasbug/healthcare_advisor_using_images_and_gpt4/blob/master/images/e2.png)
 
+#
+
 ## Turkish
 
 ![TUR-2](https://github.com/enesbasbug/healthcare_advisor_using_images_and_gpt4/blob/master/images/t2.png)
 
+#
+
 ## Italian
 
 ![ITA-2](https://github.com/enesbasbug/healthcare_advisor_using_images_and_gpt4/blob/master/images/i2.png)
+
+#
