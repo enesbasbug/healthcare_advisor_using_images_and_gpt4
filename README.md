@@ -13,10 +13,9 @@ Here are example of these three languages:
 ![ENG-2](https://github.com/enesbasbug/healthcare_advisor_using_images_and_gpt4/blob/master/images/e2.png)
 
 2- Turkish
-![TUR-1](https://github.com/enesbasbug/healthcare_advisor_using_images_and_gpt4/blob/master/images/t1.png)
+
 ![TUR-2](https://github.com/enesbasbug/healthcare_advisor_using_images_and_gpt4/blob/master/images/t2.png)
 
 3- Italian
 
-![ITA-1](https://github.com/enesbasbug/healthcare_advisor_using_images_and_gpt4/blob/master/images/i1.png)
 ![ITA-2](https://github.com/enesbasbug/healthcare_advisor_using_images_and_gpt4/blob/master/images/i2.png)
